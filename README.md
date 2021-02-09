@@ -14,7 +14,8 @@ It's a very simple iOS project. "Further Weather" is an app where we can get the
 9. UITextField Delegates
 10. Refactoring
 11. StackView for UI
-12. light and dark mode interface
+12. light and dark mode appearance interface
 13. Error Handling
 14. URL Session and task
 15. optionals
+
