@@ -7,11 +7,11 @@ It's a very simple iOS project. "Further Weather" is an app where we can get the
 2. CoreLocation
 3. Closure
 4. Protocol and Delegates
-5. Inheritance
+5. Inheritance and extensions
 6. APi
 7. JSON with encoding and decoding
 8. Data model
-9. Extensions
+9. UITextField Delegates
 10. Refactoring
 11. StackView for UI
 12. light and dark mode interface
